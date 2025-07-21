@@ -1,0 +1,2 @@
+oooo = "Marvin"
+print(oooo)
